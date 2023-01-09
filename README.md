@@ -4,6 +4,8 @@ Eğitim ve test işlemleri için kullanılan " Vehicle_detection.ipynb" dosyalar
 Modelin eğitim ve test sonuçları custom_object_detection klasörü altında bulunan "results.txt" dosyalarında kaydedilmiştir.
 Bu ağırlıkları kullanarak araba tespiti yapmak için detect.py dosyasını kullanabilirsiniz.
 Bu çalışma hakkında daha fazla bilgi için lütfen "report.pdf" dosyasını inceleyiniz.
+
+
 NESNE TESPİTİ (OBJECT DETECTİON) VE HİYERARŞİK SINIFLANDIRMA (HİERARCHİCAL CLASSİFİCATİON) 
 
 Bu kavramlar, genellikle görüntü işleme ve veri madenciliği alanlarında kullanılır. Nesne tespiti, bir görüntü içinde belirli nesnelerin varlığını ve konumlarını tespit etmeyi hedefler. Örneğin, bir resimde insan yüzlerinin tespiti veya bir video içinde araba trafiğinin izlenmesi gibi uygulamalar bu alanda yapılabilir. Bu tür bir sistem, bir görüntü içinde bir nesnenin nerede olduğunu belirleyebilir ve bu nesnenin hangi türde bir nesne olduğunu sınıflandırabilir. Örneğin, bir resim içinde bir araba ve bir köpek olabilir ve sistem bu iki nesnenin nerede olduğunu ve hangisinin araba, hangisinin köpek olduğunu tespit edebilir.
